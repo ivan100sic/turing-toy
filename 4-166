@@ -1,0 +1,32 @@
+( ) r
+a0 a1 a2 a3
+a0
+a3
+a0 ( a0 ( R
+a0 ) a1 r L
+a0 r a0 r R
+a0 # a2 # L
+a1 ( a0 r R
+a1 r a1 r L
+a2 r a2 r L
+a2 # a3 # L
+
+( ( ) ( ) ( ) ( ( ( ) ( ) ) )
+
+Program ne ucitava posle ulazne trake. Ovo se dakle ignorise:
+
+
+( ) r
+a0 a1 a2 a3
+a0
+a3
+a0 ( a0 ( R
+a0 ) a1 r L
+a0 r a0 r R
+a0 # a2 # L
+a1 ( a0 r R
+a1 r a1 r L
+a2 r a2 r L
+a2 # a3 # L
+
+( ( ) ) ( ) ( ( ( ) ( ) ) )
